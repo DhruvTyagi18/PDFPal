@@ -12,6 +12,8 @@ PDFPal is a powerful tool that allows you to interrogate your PDF files by askin
 
 ## Live Link
 https://pdfpal.streamlit.app/
+![Screenshot 2024-06-04 121423](https://github.com/DhruvTyagi18/PDFPal/assets/92265404/ee15578b-f3de-4f6c-8d6d-8d179ed11700)
+
 
 ## Getting Started
 
