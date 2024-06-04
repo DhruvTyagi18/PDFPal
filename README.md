@@ -10,6 +10,9 @@ PDFPal is a powerful tool that allows you to interrogate your PDF files by askin
 - **Get precise answers**: Receive accurate and relevant answers extracted from your PDFs.
 - **Easy integration**: Seamlessly integrate PDFPal into your projects.
 
+## Live Link
+https://pdfpal.streamlit.app/
+
 ## Getting Started
 
 ### Prerequisites
@@ -30,5 +33,4 @@ Ensure you have the following installed:
 
 ### Run App
 ```bash
-   streamlit run PDFPal.py
-
+streamlit run PDFPal.py
