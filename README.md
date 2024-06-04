@@ -24,5 +24,11 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/PDFPal.git
    cd PDFPal
+2. **Install Dependencies**
+   ```bash
    pip install -r requirements.txt
+
+### Run App
+```bash
+   streamlit run PDFPal.py
 
